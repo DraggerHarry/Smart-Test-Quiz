@@ -1,2 +1,0 @@
-Admin = username: admin,  password:admin123
-User = email:harry, password:harry@123
